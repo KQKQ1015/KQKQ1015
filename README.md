@@ -1,4 +1,4 @@
-### [ポートフォリオ](https://kqkq1015.github.io/portfolio/)
+### [Check out our portfolio](https://kqkq1015.github.io/portfolio/)
 
 <!--
 **KQKQ1015/KQKQ1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
