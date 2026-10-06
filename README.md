@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kqkq1015.github.io/portfolio/#profile"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://kqkq1015.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://web.tuat.ac.jp/~koki-yamada-lab/"><img src="https://img.shields.io/badge/Yamada_Lab-2c5364?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://x.com/pagemtimes"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
@@ -23,7 +23,7 @@
 - 🏫 東京農工大学 **[山田宏樹研究室](https://web.tuat.ac.jp/~koki-yamada-lab/)** 所属
 <!-- - 🧩 FEM で表現された構造物をグラフとみなし、GSP の枠組みで振動モードを扱う手法を研究中 -->
 - 🐖 高専時代は Transformer / Perceiver による豚の呼吸器病の早期発見などに取り組みました
-- 📄 詳しいプロフィール・業績は **[Portfolio](https://kqkq1015.github.io/portfolio/#profile)** へ
+- 📄 詳しいプロフィール・業績は **[Portfolio](https://kqkq1015.github.io/portfolio)** へ
 
 ---
 
